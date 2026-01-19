@@ -20,9 +20,9 @@ The dataset consists of multiple relational tables:
 -details	Order–dish mapping-card	Payment information
 
  ## Tools & Technologies
-- SQL (MySQL) – Data querying and analysis
-- Tableau Public – Interactive dashboards & KPIs
-- Excel / CSV – Data source
+- **SQL** (MySQL) – Data querying and analysis
+- **Tableau Public** – Interactive dashboards & KPIs
+- **Excel / CSV** – Data source
 
 ## Key KPIs
 - Total Sales: ₹10,490
